@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Mini Calco</string>
+    <string name="error_msg">Syntax ERROR</string>
+    <string name="reset_text">0.</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="egiht">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="add_op">+</string>
+    <string name="sub_op">-</string>
+    <string name="mul_op">x</string>
+    <string name="div_op">/</string>
+    <string name="square_root">SQRT</string>
+    <string name="power">X^Y</string>
+    <string name="clear">CE/C</string>
+    <string name="left_parenthese">(</string>
+    <string name="right_parenthese">)</string>
+    <string name="equality">=</string>
+    <string name="delete">DEL</string>
+    <string name="ans">ANS</string>
+    <string name="sine">sin</string>
+    <string name="cosine">cos</string>
+    <string name="tangent">tan</string>
+</resources>
